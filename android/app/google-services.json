@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1078964544172",
+    "firebase_url": "https://fortunetalk-7a538-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fortunetalk-7a538",
+    "storage_bucket": "fortunetalk-7a538.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078964544172:android:3fba87340c1fb894dff509",
+        "android_client_info": {
+          "package_name": "com.ksbm.astrofortunetalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACT-4NuLTRi-XWFgp9OwCetpEOndEthCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078964544172:android:12ffc130a9ae9338dff509",
+        "android_client_info": {
+          "package_name": "com.ksbm.fortunetalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACT-4NuLTRi-XWFgp9OwCetpEOndEthCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

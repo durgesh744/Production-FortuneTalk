@@ -1,0 +1,13 @@
+<resources>
+  <color name="background">#000000</color>
+  <color name="darkgrey">#000000</color>
+  <color name="foreground">#ffffff</color>
+  <color name="highlight">#F27806</color>
+</resources>
+
+<!-- <shape xmlns:android="http://schemas.android.com/apk/res/android" shape="rectangle">
+    <gradient
+        android:startColor="#FF5733"
+        android:endColor="#00C853"
+        android:type="linear" />
+</shape> -->

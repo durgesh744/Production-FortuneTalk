@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FortuneTalk</string>
+    <string name="facebook_app_id">969841201376266</string>
+    <string name="facebook_client_token">22ffaf4296ef8fc1b70f7ade2a1d6acc</string>
+    <!-- <string name="fb_auto_applink_scheme">fb1523458767976650</string>
+    <string name="fb_login_protocol_scheme">1523458767976650</string> -->
+</resources>
